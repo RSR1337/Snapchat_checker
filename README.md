@@ -10,4 +10,4 @@ Snapchat usernames checker on java
 
 
 for more info:
-my SC [icoder96](https://www.snapchat.com/add/icoder96)
+my SC [👻](https://www.snapchat.com/add/icoder96)
